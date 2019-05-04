@@ -12,3 +12,6 @@
 *.a
 
 *.bak
+.vscode/
+Makefile
+objs
